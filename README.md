@@ -20,7 +20,7 @@ Remark: You will first have to install WSL1 (Windows Subsystem Linux), then upda
 
 ### Usage
 
-To convert C:\Users\UserName\Documents\myfile.pdf to C:\Users\UserName\Documents\myfile.epub, open a terminal in the root folder (PowerShell, Command Prompt or Windows terminal) and run the following commands:
+To convert C:\Users\UserName\Documents\myfile.pdf to C:\Users\UserName\Documents\myfile.epub, open a terminal in the project root folder (PowerShell, Command Prompt or Windows terminal) and run the following commands:
 
 ```
 docker build . -t imeysam-sh/pdf-fx-epub3
