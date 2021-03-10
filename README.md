@@ -29,7 +29,7 @@ docker run -ti --rm -v C:\Users\UserName\Documents:/temp imeysam-sh/pdf-fx-epub3
 
 ## Parameters
 
-Once you launch *pdf2epubEX*, some information will be displayed like the book/PDF width and height (in inches and cm), then some questions will be asked like:
+Once you launch *pdf-fx-epub3*, some information will be displayed like the book/PDF width and height (in inches and cm), then some questions will be asked like:
 
 - Format of the images in the epub (png, jpg or svg) [default: jpg]
 - Resolution of the images in the epub in dpi (e.g.: 150 or 300) [default: 150]
