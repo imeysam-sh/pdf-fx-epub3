@@ -1,6 +1,6 @@
-# pdf-fx-epub3 based on # pdf2epubEX
+# pdf-fx-epub3
 
-This Bash shell script uses the *pdf-fx-epub3* tool to convert a PDF file to an ePub file.
+This Bash shell script uses the *pdf-fx-epub3* (based on #pdf2epubEX) tool to convert a PDF file to an ePub file.
 
 The result is a *fixed layout* ePub version 3: the layout is perfectly retained and all the fonts are embedded.
 
